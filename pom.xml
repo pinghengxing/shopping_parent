@@ -12,6 +12,7 @@
         <module>shopping_weixin</module>
         <module>shopping_pay</module>
         <module>shopping_order</module>
+
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
