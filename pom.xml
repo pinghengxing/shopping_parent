@@ -12,7 +12,7 @@
         <module>shopping_weixin</module>
         <module>shopping_pay</module>
         <module>shopping_order</module>
-<!--注释增加开始-->
+<!--注释增加11-->
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
