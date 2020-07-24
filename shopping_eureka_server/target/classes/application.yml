@@ -1,0 +1,15 @@
+##springcloud
+#作为注册中心使用，使用注解@EnableEurekaServer
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true #提供ip而不是hostname
+#    ip-address: 127.0.0.1
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+server:
+  port: 8761
+

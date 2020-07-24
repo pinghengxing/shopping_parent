@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "wx.mp",
+      "type": "com.phx.weixin.mp.config.WxMpProperties",
+      "sourceType": "com.phx.weixin.mp.config.WxMpProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wx.mp.configs",
+      "type": "java.util.List<com.phx.weixin.mp.config.WxMpProperties$MpConfig>",
+      "description": "Description for wx.mp.configs.",
+      "sourceType": "com.phx.weixin.mp.config.WxMpProperties"
+    }
+  ],
+  "hints": []
+}

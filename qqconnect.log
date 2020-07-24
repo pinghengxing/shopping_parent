@@ -1,0 +1,413 @@
+0    DEBUG [2020-05-06 20:18:01]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+2    DEBUG [2020-05-06 20:18:01]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+3    DEBUG [2020-05-06 20:18:01]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+3    DEBUG [2020-05-06 20:18:01]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+21907 DEBUG [2020-05-06 20:18:23]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+21908 DEBUG [2020-05-06 20:18:23]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+21909 DEBUG [2020-05-06 20:18:23]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+21909 DEBUG [2020-05-06 20:18:23]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+66159 DEBUG [2020-05-06 20:19:07]  Couldn't find template in cache for "login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+66159 DEBUG [2020-05-06 20:19:07]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+66160 DEBUG [2020-05-06 20:19:07]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+66161 DEBUG [2020-05-06 20:19:07]  TemplateLoader.findTemplateSource("login.ftl"): Found
+66161 DEBUG [2020-05-06 20:19:07]  Loading template for "login.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\login.ftl"
+66190 DEBUG [2020-05-06 20:19:07]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+96521 DEBUG [2020-05-06 20:19:37]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+96521 DEBUG [2020-05-06 20:19:37]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+96522 DEBUG [2020-05-06 20:19:37]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+96522 DEBUG [2020-05-06 20:19:37]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2020-05-06 20:45:15]  Couldn't find template in cache for "login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2020-05-06 20:45:15]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+4    DEBUG [2020-05-06 20:45:15]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+4    DEBUG [2020-05-06 20:45:15]  TemplateLoader.findTemplateSource("login.ftl"): Found
+5    DEBUG [2020-05-06 20:45:15]  Loading template for "login.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\login.ftl"
+32   DEBUG [2020-05-06 20:45:15]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+2798 DEBUG [2020-05-06 20:45:18]  Couldn't find template in cache for "register.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+2800 DEBUG [2020-05-06 20:45:18]  TemplateLoader.findTemplateSource("register_zh_CN.ftl"): Not found
+2800 DEBUG [2020-05-06 20:45:18]  TemplateLoader.findTemplateSource("register_zh.ftl"): Not found
+2801 DEBUG [2020-05-06 20:45:18]  TemplateLoader.findTemplateSource("register.ftl"): Found
+2801 DEBUG [2020-05-06 20:45:18]  Loading template for "register.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\register.ftl"
+2816 DEBUG [2020-05-06 20:45:18]  "register.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+12178 DEBUG [2020-05-06 20:45:27]  TemplateLoader.findTemplateSource("register_zh_CN.ftl"): Not found
+12179 DEBUG [2020-05-06 20:45:27]  TemplateLoader.findTemplateSource("register_zh.ftl"): Not found
+12179 DEBUG [2020-05-06 20:45:27]  TemplateLoader.findTemplateSource("register.ftl"): Found
+12180 DEBUG [2020-05-06 20:45:27]  "register.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\register.ftl hasn't changed.
+12180 DEBUG [2020-05-06 20:45:27]  "register.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+14721 DEBUG [2020-05-06 20:45:30]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+14721 DEBUG [2020-05-06 20:45:30]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+14721 DEBUG [2020-05-06 20:45:30]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+14722 DEBUG [2020-05-06 20:45:30]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+115416 DEBUG [2020-05-06 20:47:11]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+115416 DEBUG [2020-05-06 20:47:11]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+115417 DEBUG [2020-05-06 20:47:11]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+115417 DEBUG [2020-05-06 20:47:11]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+10152549 DEBUG [2020-05-06 23:34:28]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+10152551 DEBUG [2020-05-06 23:34:28]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+10152551 DEBUG [2020-05-06 23:34:28]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+10152552 DEBUG [2020-05-06 23:34:28]  TemplateLoader.findTemplateSource("index.ftl"): Found
+10152552 DEBUG [2020-05-06 23:34:28]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\index.ftl"
+10152554 DEBUG [2020-05-06 23:34:28]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+10180283 DEBUG [2020-05-06 23:34:55]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+10180284 DEBUG [2020-05-06 23:34:55]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+10180285 DEBUG [2020-05-06 23:34:55]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+10180285 DEBUG [2020-05-06 23:34:55]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+10444931 DEBUG [2020-05-06 23:39:20]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+10444931 DEBUG [2020-05-06 23:39:20]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+10444932 DEBUG [2020-05-06 23:39:20]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+10444932 DEBUG [2020-05-06 23:39:20]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+10451603 DEBUG [2020-05-06 23:39:27]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+10451603 DEBUG [2020-05-06 23:39:27]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+10451604 DEBUG [2020-05-06 23:39:27]  TemplateLoader.findTemplateSource("index.ftl"): Found
+10451605 DEBUG [2020-05-06 23:39:27]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\index.ftl hasn't changed.
+10451605 DEBUG [2020-05-06 23:39:27]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+10460841 DEBUG [2020-05-06 23:39:36]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+10460842 DEBUG [2020-05-06 23:39:36]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+10460842 DEBUG [2020-05-06 23:39:36]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+10460842 DEBUG [2020-05-06 23:39:36]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+10494660 DEBUG [2020-05-06 23:40:10]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+10494661 DEBUG [2020-05-06 23:40:10]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+10494661 DEBUG [2020-05-06 23:40:10]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+10494661 DEBUG [2020-05-06 23:40:10]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+10534074 DEBUG [2020-05-06 23:40:49]  Couldn't find template in cache for "login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+10534074 DEBUG [2020-05-06 23:40:49]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+10534075 DEBUG [2020-05-06 23:40:49]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+10534075 DEBUG [2020-05-06 23:40:49]  TemplateLoader.findTemplateSource("login.ftl"): Found
+10534075 DEBUG [2020-05-06 23:40:49]  Loading template for "login.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\login.ftl"
+10534080 DEBUG [2020-05-06 23:40:49]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+10542617 DEBUG [2020-05-06 23:40:58]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+10542618 DEBUG [2020-05-06 23:40:58]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+10542618 DEBUG [2020-05-06 23:40:58]  TemplateLoader.findTemplateSource("login.ftl"): Found
+10542618 DEBUG [2020-05-06 23:40:58]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+10542618 DEBUG [2020-05-06 23:40:58]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+10583388 DEBUG [2020-05-06 23:41:39]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+10583389 DEBUG [2020-05-06 23:41:39]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+10583389 DEBUG [2020-05-06 23:41:39]  TemplateLoader.findTemplateSource("login.ftl"): Found
+10583389 DEBUG [2020-05-06 23:41:39]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+10583389 DEBUG [2020-05-06 23:41:39]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+10613102 DEBUG [2020-05-06 23:42:08]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+10613102 DEBUG [2020-05-06 23:42:08]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+10613103 DEBUG [2020-05-06 23:42:08]  TemplateLoader.findTemplateSource("index.ftl"): Found
+10613103 DEBUG [2020-05-06 23:42:08]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\index.ftl hasn't changed.
+10613103 DEBUG [2020-05-06 23:42:08]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+11120423 DEBUG [2020-05-06 23:50:36]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+11120423 DEBUG [2020-05-06 23:50:36]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+11120424 DEBUG [2020-05-06 23:50:36]  TemplateLoader.findTemplateSource("login.ftl"): Found
+11120424 DEBUG [2020-05-06 23:50:36]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+11120424 DEBUG [2020-05-06 23:50:36]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+11803000 DEBUG [2020-05-07 00:01:58]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+11803001 DEBUG [2020-05-07 00:01:58]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+11803001 DEBUG [2020-05-07 00:01:58]  TemplateLoader.findTemplateSource("login.ftl"): Found
+11803001 DEBUG [2020-05-07 00:01:58]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+11803001 DEBUG [2020-05-07 00:01:58]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+13260943 DEBUG [2020-05-07 00:26:16]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+13260945 DEBUG [2020-05-07 00:26:16]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+13260946 DEBUG [2020-05-07 00:26:16]  TemplateLoader.findTemplateSource("login.ftl"): Found
+13260946 DEBUG [2020-05-07 00:26:16]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+13260947 DEBUG [2020-05-07 00:26:16]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-07 21:06:12]  Couldn't find template in cache for "login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2020-05-07 21:06:12]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+4    DEBUG [2020-05-07 21:06:12]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+6    DEBUG [2020-05-07 21:06:12]  TemplateLoader.findTemplateSource("login.ftl"): Found
+6    DEBUG [2020-05-07 21:06:12]  Loading template for "login.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\login.ftl"
+41   DEBUG [2020-05-07 21:06:12]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-08 23:13:07]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2020-05-08 23:13:07]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+4    DEBUG [2020-05-08 23:13:07]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+4    DEBUG [2020-05-08 23:13:07]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+5269 DEBUG [2020-05-08 23:13:12]  Couldn't find template in cache for "login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+5270 DEBUG [2020-05-08 23:13:12]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+5271 DEBUG [2020-05-08 23:13:12]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+5271 DEBUG [2020-05-08 23:13:12]  TemplateLoader.findTemplateSource("login.ftl"): Found
+5272 DEBUG [2020-05-08 23:13:12]  Loading template for "login.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\login.ftl"
+5486 DEBUG [2020-05-08 23:13:12]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+292067 DEBUG [2020-05-08 23:17:59]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+292068 DEBUG [2020-05-08 23:17:59]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+292068 DEBUG [2020-05-08 23:17:59]  TemplateLoader.findTemplateSource("login.ftl"): Found
+292068 DEBUG [2020-05-08 23:17:59]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+292068 DEBUG [2020-05-08 23:17:59]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+308925 DEBUG [2020-05-08 23:18:16]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+308925 DEBUG [2020-05-08 23:18:16]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+308925 DEBUG [2020-05-08 23:18:16]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+308925 DEBUG [2020-05-08 23:18:16]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2020-05-08 23:35:00]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2020-05-08 23:35:00]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+5    DEBUG [2020-05-08 23:35:00]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+6    DEBUG [2020-05-08 23:35:00]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+130586 DEBUG [2020-05-08 23:37:11]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+130587 DEBUG [2020-05-08 23:37:11]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+130587 DEBUG [2020-05-08 23:37:11]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+130587 DEBUG [2020-05-08 23:37:11]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+151622 DEBUG [2020-05-08 23:37:32]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+151623 DEBUG [2020-05-08 23:37:32]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+151623 DEBUG [2020-05-08 23:37:32]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+151623 DEBUG [2020-05-08 23:37:32]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+281949 DEBUG [2020-05-08 23:39:42]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+281949 DEBUG [2020-05-08 23:39:42]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+281950 DEBUG [2020-05-08 23:39:42]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+281950 DEBUG [2020-05-08 23:39:42]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+400768 DEBUG [2020-05-08 23:41:41]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+400768 DEBUG [2020-05-08 23:41:41]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+400769 DEBUG [2020-05-08 23:41:41]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+400769 DEBUG [2020-05-08 23:41:41]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+577137 DEBUG [2020-05-08 23:44:37]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+577138 DEBUG [2020-05-08 23:44:37]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+577139 DEBUG [2020-05-08 23:44:37]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+577139 DEBUG [2020-05-08 23:44:37]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+615259 DEBUG [2020-05-08 23:45:15]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+615260 DEBUG [2020-05-08 23:45:15]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+615260 DEBUG [2020-05-08 23:45:15]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+615260 DEBUG [2020-05-08 23:45:15]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+640009 DEBUG [2020-05-08 23:45:40]  Couldn't find template in cache for "login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+640009 DEBUG [2020-05-08 23:45:40]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+640010 DEBUG [2020-05-08 23:45:40]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+640011 DEBUG [2020-05-08 23:45:40]  TemplateLoader.findTemplateSource("login.ftl"): Found
+640012 DEBUG [2020-05-08 23:45:40]  Loading template for "login.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\login.ftl"
+640047 DEBUG [2020-05-08 23:45:40]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+686837 DEBUG [2020-05-08 23:46:27]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+686837 DEBUG [2020-05-08 23:46:27]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+686838 DEBUG [2020-05-08 23:46:27]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+686838 DEBUG [2020-05-08 23:46:27]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+1036837 DEBUG [2020-05-08 23:52:17]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+1036838 DEBUG [2020-05-08 23:52:17]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+1036838 DEBUG [2020-05-08 23:52:17]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+1036838 DEBUG [2020-05-08 23:52:17]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+1056462 DEBUG [2020-05-08 23:52:37]  Couldn't find template in cache for "qqrelation.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+1056463 DEBUG [2020-05-08 23:52:37]  TemplateLoader.findTemplateSource("qqrelation_zh_CN.ftl"): Not found
+1056463 DEBUG [2020-05-08 23:52:37]  TemplateLoader.findTemplateSource("qqrelation_zh.ftl"): Not found
+1056463 DEBUG [2020-05-08 23:52:37]  TemplateLoader.findTemplateSource("qqrelation.ftl"): Found
+1056463 DEBUG [2020-05-08 23:52:37]  Loading template for "qqrelation.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\qqrelation.ftl"
+1056467 DEBUG [2020-05-08 23:52:37]  "qqrelation.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1105204 DEBUG [2020-05-08 23:53:25]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+1105204 DEBUG [2020-05-08 23:53:25]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+1105204 DEBUG [2020-05-08 23:53:25]  TemplateLoader.findTemplateSource("login.ftl"): Found
+1105205 DEBUG [2020-05-08 23:53:25]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+1105205 DEBUG [2020-05-08 23:53:25]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1121953 DEBUG [2020-05-08 23:53:42]  TemplateLoader.findTemplateSource("qqrelation_zh_CN.ftl"): Not found
+1121954 DEBUG [2020-05-08 23:53:42]  TemplateLoader.findTemplateSource("qqrelation_zh.ftl"): Not found
+1121954 DEBUG [2020-05-08 23:53:42]  TemplateLoader.findTemplateSource("qqrelation.ftl"): Found
+1121954 DEBUG [2020-05-08 23:53:42]  "qqrelation.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\qqrelation.ftl hasn't changed.
+1121954 DEBUG [2020-05-08 23:53:42]  "qqrelation.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1241857 DEBUG [2020-05-08 23:55:42]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+1241857 DEBUG [2020-05-08 23:55:42]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+1241858 DEBUG [2020-05-08 23:55:42]  TemplateLoader.findTemplateSource("login.ftl"): Found
+1241858 DEBUG [2020-05-08 23:55:42]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+1241858 DEBUG [2020-05-08 23:55:42]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1259982 DEBUG [2020-05-08 23:56:00]  Couldn't find template in cache for "index.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+1259983 DEBUG [2020-05-08 23:56:00]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+1259983 DEBUG [2020-05-08 23:56:00]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+1259983 DEBUG [2020-05-08 23:56:00]  TemplateLoader.findTemplateSource("index.ftl"): Found
+1259983 DEBUG [2020-05-08 23:56:00]  Loading template for "index.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\index.ftl"
+1259984 DEBUG [2020-05-08 23:56:00]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1431169 DEBUG [2020-05-08 23:58:51]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+1431169 DEBUG [2020-05-08 23:58:51]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+1431170 DEBUG [2020-05-08 23:58:51]  TemplateLoader.findTemplateSource("login.ftl"): Found
+1431170 DEBUG [2020-05-08 23:58:51]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+1431170 DEBUG [2020-05-08 23:58:51]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1525241 DEBUG [2020-05-09 00:00:25]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+1525241 DEBUG [2020-05-09 00:00:25]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+1525242 DEBUG [2020-05-09 00:00:25]  TemplateLoader.findTemplateSource("index.ftl"): Found
+1525242 DEBUG [2020-05-09 00:00:25]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\index.ftl hasn't changed.
+1525242 DEBUG [2020-05-09 00:00:25]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+2185664 DEBUG [2020-05-09 00:11:26]  TemplateLoader.findTemplateSource("qqrelation_zh_CN.ftl"): Not found
+2185665 DEBUG [2020-05-09 00:11:26]  TemplateLoader.findTemplateSource("qqrelation_zh.ftl"): Not found
+2185666 DEBUG [2020-05-09 00:11:26]  TemplateLoader.findTemplateSource("qqrelation.ftl"): Found
+2185666 DEBUG [2020-05-09 00:11:26]  "qqrelation.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\qqrelation.ftl hasn't changed.
+2185666 DEBUG [2020-05-09 00:11:26]  "qqrelation.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+2555577 DEBUG [2020-05-09 00:17:36]  Couldn't find template in cache for "register.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+2555577 DEBUG [2020-05-09 00:17:36]  TemplateLoader.findTemplateSource("register_zh_CN.ftl"): Not found
+2555578 DEBUG [2020-05-09 00:17:36]  TemplateLoader.findTemplateSource("register_zh.ftl"): Not found
+2555578 DEBUG [2020-05-09 00:17:36]  TemplateLoader.findTemplateSource("register.ftl"): Found
+2555578 DEBUG [2020-05-09 00:17:36]  Loading template for "register.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\register.ftl"
+2555585 DEBUG [2020-05-09 00:17:36]  "register.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+2599744 DEBUG [2020-05-09 00:18:20]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+2599745 DEBUG [2020-05-09 00:18:20]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+2599745 DEBUG [2020-05-09 00:18:20]  TemplateLoader.findTemplateSource("login.ftl"): Found
+2599745 DEBUG [2020-05-09 00:18:20]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+2599745 DEBUG [2020-05-09 00:18:20]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+2654656 DEBUG [2020-05-09 00:19:15]  TemplateLoader.findTemplateSource("qqrelation_zh_CN.ftl"): Not found
+2654656 DEBUG [2020-05-09 00:19:15]  TemplateLoader.findTemplateSource("qqrelation_zh.ftl"): Not found
+2654657 DEBUG [2020-05-09 00:19:15]  TemplateLoader.findTemplateSource("qqrelation.ftl"): Found
+2654657 DEBUG [2020-05-09 00:19:15]  "qqrelation.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\qqrelation.ftl hasn't changed.
+2654657 DEBUG [2020-05-09 00:19:15]  "qqrelation.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+2762851 DEBUG [2020-05-09 00:21:03]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+2762851 DEBUG [2020-05-09 00:21:03]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+2762852 DEBUG [2020-05-09 00:21:03]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+2762852 DEBUG [2020-05-09 00:21:03]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+2789312 DEBUG [2020-05-09 00:21:29]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+2789313 DEBUG [2020-05-09 00:21:29]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+2789313 DEBUG [2020-05-09 00:21:29]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+2789313 DEBUG [2020-05-09 00:21:29]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+2793589 DEBUG [2020-05-09 00:21:34]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+2793590 DEBUG [2020-05-09 00:21:34]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+2793590 DEBUG [2020-05-09 00:21:34]  TemplateLoader.findTemplateSource("index.ftl"): Found
+2793590 DEBUG [2020-05-09 00:21:34]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\index.ftl hasn't changed.
+2793590 DEBUG [2020-05-09 00:21:34]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+2808861 DEBUG [2020-05-09 00:21:49]  TemplateLoader.findTemplateSource("qqrelation_zh_CN.ftl"): Not found
+2808861 DEBUG [2020-05-09 00:21:49]  TemplateLoader.findTemplateSource("qqrelation_zh.ftl"): Not found
+2808861 DEBUG [2020-05-09 00:21:49]  TemplateLoader.findTemplateSource("qqrelation.ftl"): Found
+2808861 DEBUG [2020-05-09 00:21:49]  "qqrelation.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\qqrelation.ftl hasn't changed.
+2808861 DEBUG [2020-05-09 00:21:49]  "qqrelation.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3023608 DEBUG [2020-05-09 00:25:24]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+3023608 DEBUG [2020-05-09 00:25:24]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+3023608 DEBUG [2020-05-09 00:25:24]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+3023608 DEBUG [2020-05-09 00:25:24]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+3028123 DEBUG [2020-05-09 00:25:28]  "error.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3033245 DEBUG [2020-05-09 00:25:33]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+3033246 DEBUG [2020-05-09 00:25:33]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+3033246 DEBUG [2020-05-09 00:25:33]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+3033246 DEBUG [2020-05-09 00:25:33]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+3034947 DEBUG [2020-05-09 00:25:35]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+3034948 DEBUG [2020-05-09 00:25:35]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+3034948 DEBUG [2020-05-09 00:25:35]  TemplateLoader.findTemplateSource("login.ftl"): Found
+3034948 DEBUG [2020-05-09 00:25:35]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+3034949 DEBUG [2020-05-09 00:25:35]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3035642 DEBUG [2020-05-09 00:25:36]  "error.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3043064 DEBUG [2020-05-09 00:25:43]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+3043064 DEBUG [2020-05-09 00:25:43]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+3043064 DEBUG [2020-05-09 00:25:43]  TemplateLoader.findTemplateSource("login.ftl"): Found
+3043064 DEBUG [2020-05-09 00:25:43]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+3043064 DEBUG [2020-05-09 00:25:43]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3043450 DEBUG [2020-05-09 00:25:44]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+3043450 DEBUG [2020-05-09 00:25:44]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+3043451 DEBUG [2020-05-09 00:25:44]  TemplateLoader.findTemplateSource("index.ftl"): Found
+3043451 DEBUG [2020-05-09 00:25:44]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\index.ftl hasn't changed.
+3043451 DEBUG [2020-05-09 00:25:44]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3046313 DEBUG [2020-05-09 00:25:46]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3046313 DEBUG [2020-05-09 00:25:46]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3048332 DEBUG [2020-05-09 00:25:48]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+3048332 DEBUG [2020-05-09 00:25:48]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+3048333 DEBUG [2020-05-09 00:25:48]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+3048333 DEBUG [2020-05-09 00:25:48]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+3049799 DEBUG [2020-05-09 00:25:50]  "error.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3081954 DEBUG [2020-05-09 00:26:22]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+3081954 DEBUG [2020-05-09 00:26:22]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+3081954 DEBUG [2020-05-09 00:26:22]  TemplateLoader.findTemplateSource("index.ftl"): Found
+3081954 DEBUG [2020-05-09 00:26:22]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\index.ftl hasn't changed.
+3081955 DEBUG [2020-05-09 00:26:22]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3423728 DEBUG [2020-05-09 00:32:04]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+3423729 DEBUG [2020-05-09 00:32:04]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+3423729 DEBUG [2020-05-09 00:32:04]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+3423729 DEBUG [2020-05-09 00:32:04]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+3442453 DEBUG [2020-05-09 00:32:23]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+3442453 DEBUG [2020-05-09 00:32:23]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+3442454 DEBUG [2020-05-09 00:32:23]  TemplateLoader.findTemplateSource("index.ftl"): Found
+3442454 DEBUG [2020-05-09 00:32:23]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\index.ftl hasn't changed.
+3442454 DEBUG [2020-05-09 00:32:23]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3447803 DEBUG [2020-05-09 00:32:28]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+3447803 DEBUG [2020-05-09 00:32:28]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+3447804 DEBUG [2020-05-09 00:32:28]  TemplateLoader.findTemplateSource("login.ftl"): Found
+3447804 DEBUG [2020-05-09 00:32:28]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+3447804 DEBUG [2020-05-09 00:32:28]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3465487 DEBUG [2020-05-09 00:32:46]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+3465488 DEBUG [2020-05-09 00:32:46]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+3465488 DEBUG [2020-05-09 00:32:46]  TemplateLoader.findTemplateSource("index.ftl"): Found
+3465488 DEBUG [2020-05-09 00:32:46]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\index.ftl hasn't changed.
+3465488 DEBUG [2020-05-09 00:32:46]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3483157 DEBUG [2020-05-09 00:33:03]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+3483158 DEBUG [2020-05-09 00:33:03]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+3483158 DEBUG [2020-05-09 00:33:03]  TemplateLoader.findTemplateSource("login.ftl"): Found
+3483158 DEBUG [2020-05-09 00:33:03]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+3483159 DEBUG [2020-05-09 00:33:03]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3510869 DEBUG [2020-05-09 00:33:31]  TemplateLoader.findTemplateSource("index_zh_CN.ftl"): Not found
+3510869 DEBUG [2020-05-09 00:33:31]  TemplateLoader.findTemplateSource("index_zh.ftl"): Not found
+3510870 DEBUG [2020-05-09 00:33:31]  TemplateLoader.findTemplateSource("index.ftl"): Found
+3510870 DEBUG [2020-05-09 00:33:31]  "index.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\index.ftl hasn't changed.
+3510870 DEBUG [2020-05-09 00:33:31]  "index.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+3702870 DEBUG [2020-05-09 00:36:43]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+3702871 DEBUG [2020-05-09 00:36:43]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+3702871 DEBUG [2020-05-09 00:36:43]  TemplateLoader.findTemplateSource("login.ftl"): Found
+3702871 DEBUG [2020-05-09 00:36:43]  "login.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\login.ftl hasn't changed.
+3702871 DEBUG [2020-05-09 00:36:43]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-10 15:44:30]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2020-05-10 15:44:30]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+5    DEBUG [2020-05-10 15:44:30]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+5    DEBUG [2020-05-10 15:44:30]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+54089 DEBUG [2020-05-10 15:45:24]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+54091 DEBUG [2020-05-10 15:45:24]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+54091 DEBUG [2020-05-10 15:45:24]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+54091 DEBUG [2020-05-10 15:45:24]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2020-05-10 15:49:55]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+5    DEBUG [2020-05-10 15:49:55]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+6    DEBUG [2020-05-10 15:49:55]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+6    DEBUG [2020-05-10 15:49:55]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2020-05-10 16:50:37]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2020-05-10 16:50:37]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+4    DEBUG [2020-05-10 16:50:37]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+4    DEBUG [2020-05-10 16:50:37]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2020-05-10 16:56:13]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2020-05-10 16:56:13]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+5    DEBUG [2020-05-10 16:56:13]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+6    DEBUG [2020-05-10 16:56:13]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+7    DEBUG [2020-05-10 16:56:13]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\pay_success.ftl"
+40   DEBUG [2020-05-10 16:56:13]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-10 17:12:05]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2020-05-10 17:12:05]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+4    DEBUG [2020-05-10 17:12:05]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+5    DEBUG [2020-05-10 17:12:05]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+6    DEBUG [2020-05-10 17:12:05]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\pay_success.ftl"
+28   DEBUG [2020-05-10 17:12:05]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-10 17:16:16]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2020-05-10 17:16:16]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+4    DEBUG [2020-05-10 17:16:16]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+5    DEBUG [2020-05-10 17:16:16]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+5    DEBUG [2020-05-10 17:16:16]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\pay_success.ftl"
+26   DEBUG [2020-05-10 17:16:16]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-10 17:22:45]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2020-05-10 17:22:45]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+5    DEBUG [2020-05-10 17:22:45]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+5    DEBUG [2020-05-10 17:22:45]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2020-05-10 17:54:23]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+2    DEBUG [2020-05-10 17:54:23]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+3    DEBUG [2020-05-10 17:54:23]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+3    DEBUG [2020-05-10 17:54:23]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2020-05-10 18:07:21]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2020-05-10 18:07:21]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+4    DEBUG [2020-05-10 18:07:21]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+5    DEBUG [2020-05-10 18:07:21]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+5    DEBUG [2020-05-10 18:07:21]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\pay_success.ftl"
+24   DEBUG [2020-05-10 18:07:21]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1    DEBUG [2020-05-10 18:18:04]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+12   DEBUG [2020-05-10 18:18:04]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+15   DEBUG [2020-05-10 18:18:04]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+17   DEBUG [2020-05-10 18:18:04]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+18   DEBUG [2020-05-10 18:18:04]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\pay_success.ftl"
+51   DEBUG [2020-05-10 18:18:05]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+36932 DEBUG [2020-05-10 18:18:41]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+36935 DEBUG [2020-05-10 18:18:41]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+36936 DEBUG [2020-05-10 18:18:41]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+36937 DEBUG [2020-05-10 18:18:41]  "pay_success.ftl"("zh_CN", UTF-8, parsed): using cached since E:\idea workspace\shopping_parent\shopping_pc_web\target\classes\templates\pay_success.ftl hasn't changed.
+36937 DEBUG [2020-05-10 18:18:41]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-10 18:21:06]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2020-05-10 18:21:06]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+5    DEBUG [2020-05-10 18:21:06]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+6    DEBUG [2020-05-10 18:21:06]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+8    DEBUG [2020-05-10 18:21:06]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\pay_success.ftl"
+36   DEBUG [2020-05-10 18:21:06]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-10 18:39:40]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2020-05-10 18:39:40]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+6    DEBUG [2020-05-10 18:39:40]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+7    DEBUG [2020-05-10 18:39:40]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+8    DEBUG [2020-05-10 18:39:40]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\pay_success.ftl"
+27   DEBUG [2020-05-10 18:39:40]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-10 18:43:00]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2020-05-10 18:43:00]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+4    DEBUG [2020-05-10 18:43:00]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+5    DEBUG [2020-05-10 18:43:00]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+5    DEBUG [2020-05-10 18:43:00]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\pay_success.ftl"
+25   DEBUG [2020-05-10 18:43:00]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-15 01:15:16]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+6    DEBUG [2020-05-15 01:15:16]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+9    DEBUG [2020-05-15 01:15:16]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+11   DEBUG [2020-05-15 01:15:16]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+12   DEBUG [2020-05-15 01:15:16]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\pay_success.ftl"
+61   DEBUG [2020-05-15 01:15:16]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2020-05-15 01:20:35]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+5    DEBUG [2020-05-15 01:20:35]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+9    DEBUG [2020-05-15 01:20:35]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+9    DEBUG [2020-05-15 01:20:35]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+98118 DEBUG [2020-05-15 01:22:13]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+98120 DEBUG [2020-05-15 01:22:13]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+98121 DEBUG [2020-05-15 01:22:13]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+98124 DEBUG [2020-05-15 01:22:13]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+98125 DEBUG [2020-05-15 01:22:13]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "E:\\idea workspace\\shopping_parent\\shopping_pc_web\\target\\classes\\templates\\pay_success.ftl"
+98169 DEBUG [2020-05-15 01:22:13]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.

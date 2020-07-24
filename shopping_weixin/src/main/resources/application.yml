@@ -1,0 +1,33 @@
+
+server:
+  port: 81
+#  servlet:
+#    context-path: /message
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://140.143.26.129:8761/eureka/
+  instance:
+    prefer-ip-address: true #提供ip而不是hostname
+
+spring:
+  application:
+    name: weixin
+
+
+logging:
+  level:
+    org.springframework.web: INFO
+    com.github.binarywang.demo.wx.mp: DEBUG
+    me.chanjar.weixin: DEBUG
+wx:
+  mp:
+    configs:
+      - appId: wx4fcfbf84972ee901 # （一个公众号的appid）
+        secret: 4c0b11ba454a965e82569e8abf599ab4 #（公众号的appsecret）
+        token: phx #（接口配置里的Token值）
+#        aesKey: 8EyPdNLbeEhFzYEqXWdarU2FW6gznGLb3AiBzfGyEee # （接口配置里的EncodingAESKey值）
+#      - appId: 2222 （另一个公众号的appid，以下同上）
+#        secret: 1111
+#        token: 111
+#        aesKey: 111

@@ -1,0 +1,57 @@
+server:
+  port: 8763
+  servlet:
+#    context-path: /message
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://140.143.26.129:8761/eureka/
+  instance:
+    prefer-ip-address: true #提供ip而不是hostname
+
+spring:
+  application:
+    name: message
+
+#  redis: ##redis连接信息
+#    jedis:
+#      pool:
+#        max-active: 20 #连接池最大连接数（使用负值表示没有限制）
+#        max-idle: 10 # 连接池中的最大空闲连接
+#        min-idle: 5 # 连接池中的最小空闲连接
+#        max-wait: -1 # 连接池最大阻塞等待时间（使用负值表示没有限制）
+#    host: 140.143.26.129
+#    password: ww
+#    port: 6379
+
+
+
+  ##消息队列配置信息
+  activemq:
+    broker-url: tcp://140.143.26.129:61616
+    user: admin
+    password: admin
+    in-memory: true
+    pool:
+      enabled: false
+
+
+
+  #发送邮件配置
+  mail:
+    host: smtp.126.com #发送邮件服务器
+    username: a454902046@126.com #发送邮件的邮箱地址
+    password: KNTZKESPYJRPULKK
+    properties.mail.smtp.port: 465 #端口号465或587
+    properties.mail.smtp.starttls.enable: true
+    properties.mail.smtp.starttls.required: true
+    properties.mail.smtp.ssl.enable: true
+    default-encoding: utf-8
+
+
+#######################################
+
+msg:
+  subject: 平恒星提示您，会员注册成功邮件。
+  text:  恭喜您的账户{},注册成功!平恒星  pinghengxing.cn
+  from: a454902046@126.com # 发送邮件的地址，和上面username一致

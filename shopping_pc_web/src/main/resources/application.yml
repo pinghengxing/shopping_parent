@@ -1,0 +1,18 @@
+server:
+  port: 81
+#  servlet:
+#    context-path: /message
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://140.143.26.129:8761/eureka/
+  instance:
+    prefer-ip-address: true #提供ip而不是hostname
+    ip-address: 127.0.0.1
+
+spring:
+  application:
+    name: pc-web
+
+  main:
+    allow-bean-definition-overriding: true #当遇到同样名字的时候，是否允许覆盖注册

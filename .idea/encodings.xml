@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_api/shopping_api_member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_api/shopping_api_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_api/shopping_api_pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_eureka_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_pc_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping_weixin" charset="UTF-8" />
+  </component>
+</project>
