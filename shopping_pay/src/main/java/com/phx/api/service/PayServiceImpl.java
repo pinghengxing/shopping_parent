@@ -47,7 +47,7 @@ public class PayServiceImpl extends BaseController implements PayService {
     public ResponseBase findPayToken(String payToken) {
         // 1.参数验证
         if (StringUtils.isEmpty(payToken)) {
-            return setResultError("tokne不能为空");
+            return setResultError("token不能为空");
         }
         // 2.判断token有效期
         // 3.使用token 查找redis 找到对应支付id

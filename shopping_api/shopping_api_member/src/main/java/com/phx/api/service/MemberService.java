@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 @RequestMapping("/member")
 public interface MemberService {
-
+//我只是用于测试一下提交的
 	// 使用userId查找用户信息
 	@RequestMapping("/findUserById")
     ResponseBase findUserById(Long userId);
