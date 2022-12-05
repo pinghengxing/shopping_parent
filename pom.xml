@@ -36,7 +36,7 @@
         <commons-lang3.version>3.4</commons-lang3.version>
         <commons-httpclient.version>3.1</commons-httpclient.version>
         <fastjson.version>1.2.30</fastjson.version>
-        <commons-net.version>3.1</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
         <spring-cloud.version>Greenwich.SR5</spring-cloud.version>
     </properties>
 
